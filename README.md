@@ -1,2 +1,2 @@
 # Ds-Movie
-Aplicação SprinBoot com React
+Aplicação SpringBoot com React
